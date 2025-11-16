@@ -1,3 +1,4 @@
+"use client";
 import AppSidebar from "@/components/AppSidebar";
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
 import type { TChildren } from "@/types/global.type";
